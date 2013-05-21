@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NemList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loginDK">Log ind ved at indtaste dit brugernavn og kodeord.</string>
+    <string name="create_userDK">"Har du ingen bruger? Opret en idag. "</string>
+    <string name="create_user_buttonDK">Opret ny bruger</string>
+    <string name="loginButtonDK">Log ind</string>
+    <string name="usernameFieldDK">Indtast brugernavn</string>
+    <string name="passwordFieldDK">Indtast kodeord</string>
+
+</resources>
